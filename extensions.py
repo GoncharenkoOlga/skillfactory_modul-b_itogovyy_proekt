@@ -28,7 +28,7 @@ class Convert:
 
         payload = {}
         headers = {
-            "apikey": "vxiG1uZ6KozL9tYv8mC8jRqilciWonUa"
+            "apikey": "5CD3NdE1aQNS82DAPJuQlmq7UDly33ZU"
         }
         url = f'https://api.apilayer.com/exchangerates_data/latest?symbols={sym_key}&base={base_key}'
 
